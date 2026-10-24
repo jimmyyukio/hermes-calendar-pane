@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*token*.json
+*secret*.json
+*.key
+*.db
+*.db-*
+*.log
+.DS_Store
